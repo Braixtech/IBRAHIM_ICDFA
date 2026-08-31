@@ -1,18 +1,14 @@
-# README.md – Exact Content to Copy and Paste
-
-Copy everything below (from the first line to the last line) and paste it into your GitHub `README.md` file.
-
----
+# README.md – SBT-DF202 Lab 1
 
 ```
 # SBT-DF202 Lab 1 – Digital Forensics Case Handling, Autopsy and Sleuth Kit Analysis
 
 ## Repository: SBT-DF202_Lab1_Ch01InChap01
 
-**Student:** Ibrahim Ishaku  
-**Student ID:** 2025/FWSD/11334  
-**Course:** SBT-DF202 – Practical Laboratories  
-**Date:** 31st August, 2026
+Student: Ibrahim Ishaku  
+Student ID: 2025/FWSD/11334  
+Course: SBT-DF202 – Practical Laboratories  
+Date: 31st August, 2026
 
 ---
 
